@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(25,25,25);
+}
+#Card1{
+    width: 95%;
+    height: 50%;
+    background-color: rgb(25,25,25);
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    position: fixed;
+}
+.button {
+    background-color: #4d24aa; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+  }
+  .button1 {border-radius: 8px;}
